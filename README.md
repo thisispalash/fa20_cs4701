@@ -9,8 +9,8 @@
 
 ### Game TODO list
  
-= [x] game state tracking
-= [x] print board
+- [x] game state tracking
+- [x] print board
 - [x] check alignments
 - [ ] separate `is_aligned` for bots (w/o exception)
 
