@@ -1,0 +1,5 @@
+board with only 2 moves remaining:
+python3 play.py -w 6 -h 7 -s 0000000111111122222224333333443444455555
+
+board with only one row:
+python3 play.py -w 6 -h 7 -s 012345543210012345012345543210012345
